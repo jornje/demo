@@ -49,12 +49,4 @@ return [
         // Set this to `false` to prevent administrative changes from being made on production
         'allowUpdates' => false,
     ],
-
-    
-    'dev' => [
-        'baseUrl' => 'http://localhost/',
-    ],
-    'production' => [
-        'baseUrl' => 'https://https://utdanning-web.staging.servd.dev/',
-    ],
 ];
