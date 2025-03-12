@@ -55,6 +55,6 @@ return [
         'baseUrl' => 'http://localhost/',
     ],
     'production' => [
-        'baseUrl' => 'https://localhost/',
+        'baseUrl' => 'https://https://utdanning-web.staging.servd.dev//',
     ],
 ];
