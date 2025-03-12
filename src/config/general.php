@@ -41,12 +41,12 @@ return [
     // Staging environment settings
     'staging' => [
         // Set this to `false` to prevent administrative changes from being made on staging
-        'allowUpdates' => false,
+        'allowUpdates' => true,
     ],
 
     // Production environment settings
     'production' => [
         // Set this to `false` to prevent administrative changes from being made on production
-        'allowUpdates' => false,
+        'allowUpdates' => true,
     ],
 ];
